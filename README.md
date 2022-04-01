@@ -1,1 +1,2 @@
-# Generation tool for BrowserQuest's map on Windows
+BQMapExporter
+# BrowserQuest map exporter on Windows
