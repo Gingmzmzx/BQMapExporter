@@ -1,2 +1,1 @@
-# Generation tools for BrowserQuest's map
-## On Windows
+# Generation tool for BrowserQuest's map on Windows
